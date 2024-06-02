@@ -1765,6 +1765,10 @@ html,body {
   max-width: 100%;
   z-index: 3;
 }
+.html,.body{
+  margin: 0%;
+  padding: 0%;
+}
 .rectangle-parent4 {
   flex: 1;
   background-color: #000;
@@ -1852,20 +1856,13 @@ html,body {
 .social {
   position: absolute;
   top: 0;
-  left: 1126px;
+  left: 626px;
   background-color: #ffd700;
   width: 619px;
   height: 615px;
   z-index: 3;
 }
-.footer-info {
-  height: 874px;
-  width: 1745px;
-  position: absolute;
-  margin: 0 !important;
-  right: -405px;
-  bottom: -117px;
-}
+
 .frame-child5 {
   height: 932px;
   width: 1408px;
